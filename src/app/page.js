@@ -22,24 +22,24 @@ export default async function Home() {
       <section id="home" className="flex flex-col items-center justify-center min-h-screen pt-20">
         <div className="text-center">
           <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-emerald-400 mb-4">
-            Halo, Saya Arzu!
+            Selamat Datang ! Saya Arzu Dzaky Pratama
           </h1>
-          <p className="text-gray-400 text-lg">Frontend Developer | Computer Vision Enthusiast</p>
+          <p className="text-gray-400 text-lg">Graphics Designer | IT Enthusiast | Photographer | Videographer | Computer Vision Enthusiast</p>
         </div>
       </section>
 
       {/* TAHAP 1: Tentang & Experience Section */}
       <section id="about" className="min-h-screen flex flex-col items-center justify-center px-4 py-20 bg-gray-800/50">
-        <h2 className="text-3xl font-bold mb-8 text-teal-400">Tentang Saya</h2>
+        <h2 className="text-3xl font-bold mb-8 text-teal-400">About Me</h2>
         <div className="max-w-3xl text-center text-gray-300 space-y-8">
           <p className="leading-relaxed">
-            Saya adalah seorang pengembang yang memiliki ketertarikan mendalam pada eksplorasi antarmuka web modern dan pemrosesan citra.
+            Halo! Saya Arzu Dzaky Pratama, seorang mahasiswa Jurusan Teknologi Informasi yang memiliki hasrat besar dalam dunia Web Development, Visual Technology, Artificial Intelligence, Information Technology dan masih banyak lagi. Dengan pengalaman sebagai Graphics Designer, IT Enthusiast, Photographer, dan Videographer saya telah mengasah keterampilan saya dalam berbagai bidang kreatif dan teknis. Saya selalu bersemangat untuk belajar hal baru dan berkolaborasi dalam proyek-proyek yang menantang. Melalui portofolio ini, saya ingin berbagi karya-karya terbaik saya dan menunjukkan bagaimana saya dapat memberikan nilai tambah melalui keahlian saya.
           </p>
           
           <div>
             <h3 className="text-xl font-semibold mb-4 text-white">Keahlian (Skills)</h3>
             <div className="flex flex-wrap justify-center gap-3">
-              {['HTML', 'CSS', 'JavaScript', 'Next.js', 'Tailwind CSS', 'OpenCV'].map((skill) => (
+              {['Microsoft Office (Word, Excel & Power Point)','Figma','HTML', 'CSS', 'JavaScript', 'Next.js', 'Tailwind CSS','Canva Designer','Adobe Illustrator','Adobe Premiere Pro','Adobe Photoshop'].map((skill) => (
                 <span key={skill} className="px-4 py-2 bg-gray-700 rounded-full text-sm hover:bg-teal-500 hover:text-white transition cursor-default border border-gray-600">
                   {skill}
                 </span>
