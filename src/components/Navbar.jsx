@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Navbar() {
   return (
-    <nav className="fixed w-full z-50 top-0 bg-gray-900/80 backdrop-blur-md border-b border-gray-800">
+    <nav className="fixed w-full z-50 top-0 bg-white/80 backdrop-blur-md border-b border-gray-100">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
         
         {/* Bagian Logo yang sudah diubah */}
@@ -18,11 +18,12 @@ export default function Navbar() {
           />
         </Link>
 
-        <div className="flex space-x-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white transition">Home</Link>
-          <Link href="#about" className="hover:text-white transition">About Me</Link>
-          <Link href="#projects" className="hover:text-white transition">My Project</Link>
-          <Link href="#contact" className="hover:text-white transition">Contact Me</Link>
+        <div className="flex space-x-6 text-sm font-medium text-gray-500">
+          <Link href="/" className="hover:text-black transition-colors">Dasbor</Link>
+          <Link href="/#about" className="hover:text-black transition-colors">Tentang Saya</Link>
+          <Link href="/#projects" className="hover:text-black transition-colors">Proyek Saya</Link>
+          <Link href="/blog" className="hover:text-black transition-colors">Blog Akademik</Link>
+          <Link href="/#contact" className="hover:text-black transition-colors">Kontak Saya</Link>
         </div>
       </div>
     </nav>

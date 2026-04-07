@@ -18,11 +18,14 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
+    // Menambahkan class scroll-smooth di sini untuk animasi scroll navbar
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang="id"
+      className={`${geistSans.variable} ${geistMono.variable} scroll-smooth antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="bg-white text-[#1a1a1a] min-h-screen flex flex-col">
+        {children}
+      </body>
     </html>
   );
 }
