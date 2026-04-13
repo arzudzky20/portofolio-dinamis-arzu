@@ -26,12 +26,12 @@ export default function BlogAkademik() {
             {/* Card Tugas 1 - Pertemuan 1 */}
             <Link href="/blog/iot-pertemuan-1" className="block group">
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
-                <div className="text-sm text-gray-500 mb-2">Tugas 1 • Pertemuan 1</div>
+                <div className="text-sm text-gray-500 mb-2">Tugas 1 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  Pengantar dan Konsep Dasar Internet of Things
+                  RANGKUMAN MATERI PERTEMUAN 1 MATA KULIAH INTERNET OF THINGS : “EKOSISTEM TERHUBUNG : RANGKUMAN ANALISIS EVOLUSI KOMUNIKASI MACHINE-TO-MACHINE MENUJU INTERNET OF THINGS”
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Analisa materi pertemuan pertama beserta sumber referensi pendukung.
+                  Paper rangkuman materi dari pertemuan 1 mata kuliah IoT, beserta sumber referensinya.
                 </p>
               </div>
             </Link>
@@ -39,12 +39,12 @@ export default function BlogAkademik() {
             {/* Card Tugas 1 - Pertemuan 2 */}
             <Link href="/blog/iot-pertemuan-2" className="block group">
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
-                <div className="text-sm text-gray-500 mb-2">Tugas 1 • Pertemuan 2</div>
+                <div className="text-sm text-gray-500 mb-2">Tugas 1 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  Arsitektur dan Ekosistem IoT
+                  RANGKUMAN MATERI PERTEMUAN 2 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Analisa materi pertemuan kedua beserta sumber referensi pendukung.
+                  Paper rangkuman materi dari pertemuan 2 mata kuliah IoT, beserta sumber referensinya.
                 </p>
               </div>
             </Link>
@@ -52,12 +52,51 @@ export default function BlogAkademik() {
             {/* Card Tugas 1 - Pertemuan 3 */}
             <Link href="/blog/iot-pertemuan-3" className="block group">
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
-                <div className="text-sm text-gray-500 mb-2">Tugas 1 • Pertemuan 3</div>
+                <div className="text-sm text-gray-500 mb-2">Tugas 1 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  Perangkat Keras dan Sensor pada IoT
+                  RANGKUMAN MATERI PERTEMUAN 3 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Analisa materi pertemuan ketiga beserta sumber referensi pendukung.
+                  Paper rangkuman materi dari pertemuan 3 mata kuliah IoT, beserta sumber referensinya.
+                </p>
+              </div>
+            </Link>
+
+            {/* Card Tugas 2 - Pertemuan 4 */}
+            <Link href="/blog/iot-pertemuan-3" className="block group">
+              <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
+                <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
+                <h3 className="text-xl font-bold mb-2 group-hover:underline">
+                  RANGKUMAN MATERI PERTEMUAN 4 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Paper rangkuman materi dari pertemuan 4 mata kuliah IoT, beserta sumber referensinya.
+                </p>
+              </div>
+            </Link>
+
+            {/* Card Tugas 2 - Pertemuan 5 */}
+            <Link href="/blog/iot-pertemuan-3" className="block group">
+              <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
+                <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
+                <h3 className="text-xl font-bold mb-2 group-hover:underline">
+                  RANGKUMAN MATERI PERTEMUAN 5 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Paper rangkuman materi dari pertemuan 5 mata kuliah IoT, beserta sumber referensinya.
+                </p>
+              </div>
+            </Link>
+
+            {/* Card Tugas 2 - Pertemuan 6 */}
+            <Link href="/blog/iot-pertemuan-3" className="block group">
+              <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
+                <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
+                <h3 className="text-xl font-bold mb-2 group-hover:underline">
+                  RANGKUMAN MATERI PERTEMUAN 6 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Paper rangkuman materi dari pertemuan 6 mata kuliah IoT, beserta sumber referensinya.
                 </p>
               </div>
             </Link>
