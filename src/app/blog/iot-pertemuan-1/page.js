@@ -15,7 +15,7 @@ export default function IOTPertemuan1() {
 
         {/* Judul Artikel (Sesuai Judul PDF) */}
         <h1 className="text-2xl md:text-4xl font-bold mb-8 tracking-tight leading-tight">
-            RANGKUMAN MATERI PERTEMUAN 1 MATA KULIAH INTERNET OF THINGS : “EKOSISTEM TERHUBUNG :  RANGKUMAN ANALISIS EVOLUSI KOMUNIKASI MACHINETO-MACHINE MENUJU INTERNET OF THINGS”
+            RANGKUMAN MATERI PERTEMUAN 1 MATA KULIAH INTERNET OF THINGS : “EKOSISTEM TERHUBUNG :  RANGKUMAN ANALISIS EVOLUSI KOMUNIKASI MACHINE-TO-MACHINE MENUJU INTERNET OF THINGS”
         </h1>
 
         {/* Kotak Identitas Mahasiswa (Memenuhi Syarat Tugas) */}
@@ -36,11 +36,11 @@ export default function IOTPertemuan1() {
             <h3 className="text-blue-900 font-semibold mb-1">Unduh Dokumen</h3>
           </div>
           <a 
-            href="/rangkuman-iot-pertemuan-1.pdf" 
-            download="Rangkuman_IoT_Pertemuan1_ArzuDPratama.pdf"
+            href="/rangkuman-iot-pertemuan-1.docx" 
+            download="Rangkuman_IoT_Pertemuan1_ArzuDPratama.docx"
             className="flex items-center gap-2 px-6 py-3 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-700 transition-all shadow-md hover:shadow-lg active:scale-95 w-full sm:w-auto justify-center">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-            Download PDF
+            Download Dokumen
           </a>
         </div>
 

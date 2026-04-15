@@ -41,7 +41,7 @@ export default function BlogAkademik() {
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 1 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  RANGKUMAN MATERI PERTEMUAN 2 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                  RANGKUMAN MATERI PERTEMUAN 2 MATA KULIAH INTERNET OF THINGS : “PERSPEKTIF, RANTAI NILAI, DAN STRUKTUR INTERNET OF THINGS”
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Paper rangkuman materi dari pertemuan 2 mata kuliah IoT, beserta sumber referensinya.
@@ -54,7 +54,7 @@ export default function BlogAkademik() {
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 1 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  RANGKUMAN MATERI PERTEMUAN 3 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                  RANGKUMAN MATERI PERTEMUAN 3 MATA KULIAH INTERNET OF THINGS : “EVOLUSI PARADIGMA KOMUNIKASI & DAMPAK MAKROEKONOMI EKOSISTEM IOT”
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Paper rangkuman materi dari pertemuan 3 mata kuliah IoT, beserta sumber referensinya.
