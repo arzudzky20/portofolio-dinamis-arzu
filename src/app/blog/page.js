@@ -63,11 +63,11 @@ export default function BlogAkademik() {
             </Link>
 
             {/* Card Tugas 2 - Pertemuan 4 */}
-            <Link href="/blog/iot-pertemuan-3" className="block group">
+            <Link href="/blog/iot-pertemuan-4" className="block group">
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  RANGKUMAN MATERI PERTEMUAN 4 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                  RANGKUMAN MATERI PERTEMUAN 4 MATA KULIAH INTERNET OF THINGS : "PERANGKAT KERAS, REFERENSI MODEL DAN PROSES BISNIS INTERNET OF THINGS (IOT)"
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Paper rangkuman materi dari pertemuan 4 mata kuliah IoT, beserta sumber referensinya.
@@ -76,7 +76,7 @@ export default function BlogAkademik() {
             </Link>
 
             {/* Card Tugas 2 - Pertemuan 5 */}
-            <Link href="/blog/iot-pertemuan-3" className="block group">
+            <Link href="/blog/iot-pertemuan-5" className="block group">
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
@@ -89,7 +89,7 @@ export default function BlogAkademik() {
             </Link>
 
             {/* Card Tugas 2 - Pertemuan 6 */}
-            <Link href="/blog/iot-pertemuan-3" className="block group">
+            <Link href="/blog/iot-pertemuan-6" className="block group">
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">

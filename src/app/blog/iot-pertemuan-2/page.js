@@ -1,7 +1,7 @@
 import Navbar from "../../../components/Navbar";
 import Link from "next/link";
 
-export default function IOTPertemuan1() {
+export default function IOTPertemuan2() {
   return (
     <main className="min-h-screen bg-white text-black font-sans antialiased">
       <Navbar />
@@ -26,7 +26,7 @@ export default function IOTPertemuan1() {
             <li><span className="font-medium text-gray-900 inline-block w-20">NIM</span> : 17230190</li>
             <li><span className="font-medium text-gray-900 inline-block w-20">Kelas</span> : 17.6A.01</li>
             <li><span className="font-medium text-gray-900 inline-block w-20">Jurusan</span> : Teknologi Informasi</li>
-            <li><span className="font-medium text-gray-900 inline-block w-20">Fakultas</span> : Teknik Informatika</li>
+            <li><span className="font-medium text-gray-900 inline-block w-20">Fakultas</span> : Teknik dan Informatika</li>
           </ul>
         </div>
 
@@ -316,6 +316,64 @@ export default function IOTPertemuan1() {
           </h2>
           <p className="mb-6 leading-relaxed">Berdasarkan kajian literatur dan analisis topik diskusi sebelumnya, integrasi inovasi antara arsitektur jaringan komunikasi digital dengan rekayasa mekanika komputasional kini telah sepenuhnya beralih dari fase perkembangan telekomunikasi berbasis antarmuka percakapan tradisional yang ada pada masa lalu. Perpindahan dari konektivitas yang terisolasi oleh teknologi Machine-to-Machine (M2M) menuju ekosistem platform interkoneksi cerdas dengan server publik besar di tingkat global atau Internet of Things (IoT) menandai sebuah revolusi signifikan dalam integrasi sektor-sektor otomatis yang mandiri di ranah awan. Perubahan dalam pengadaan layanan nilai bisnis oleh penyedia telekomunikasi yang menjangkau pergeseran dari pelayanan B2C yang sempit menuju skala besar dalam pemantauan utilitas komersial dengan model Business-to-Business-to-Consumer (B2B2C) menegaskan besarnya skala ekonomi dari arsitektur konektivitas inovatif dengan alat komputasi berukuran mikro yang terintegrasi dan mampu memfasilitasi fungsionalitas algoritmik otonom yang mengubah mesin pasif dari lingkungan menjadi aktif dan terhubung serta terawasi secara real-time melalui transmisi yang tanpa henti.</p>
           <p className="mb-6 leading-relaxed">Didukung oleh kecerdasan buatan yang mampu melakukan inferensi data secara mandiri, pembangunan infrastruktur sirkuit cip komputasional ukuran nano yang ekonomis dan mutakhir, serta ketergantungan terhadap pengembangan arsitektur saluran jaringan yang spesifik dalam mengurangi daya tahan baterai, jaringan terkonvergensi IoT ini diperkirakan akan semakin berpengaruh dan mengendalikan pengelolaan di berbagai aspek aktivitas sehari-hari dalam ruang sosial kehidupan manusia. Konsep ini berfungsi untuk meningkatkan infrastruktur layanan logistik di daerah pertanian padang rumput yang terpencil, memberikan dukungan untuk manajemen kelancaran lalu lintas lampu di kota pintar serta meredakan kemacetan kawasan pusat komuter pada area perkotaan yang sibuk, mengoptimalkan sistem keamanan bangunan pintar di hunian komersial yang vertikal, dan memastikan visibilitas dalam smart mobility saat mengontrol alat transportasi cerdas di jalur jalan bebas hambatan antar-negara. Kapasitas strategis dalam mengintegrasikan secara menyeluruh ekosistem alat terhubung di sembilan koridor utama untuk kepentingan utilitas industri secara fundamental menciptakan peluang untuk mengurangi beban biaya dalam penanganan insiden yang tak terduga, serta mengurangi angka kegagalan dalam logistik tanpa cacat melalui otomasi preskriptif yang tak dapat dilihat, meletakkan pondasi bagi sistem logis yang memungkinkan terciptanya pemukiman berautomasi yang meningkatkan kesejahteraan dan efisiensi masyarakat modern di zaman sekarang.</p>
+
+          {/* BAGIAN DAFTAR PUSTAKA */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold text-black mb-6">IX. Daftar Pustaka</h2>
+            <ul className="list-decimal pl-5 space-y-3 text-gray-600 text-sm leading-relaxed break-words">
+              <li>Slide Materi IoT Pertemuan 2 – Perspektif, Rantai dan Struktur IoT, 0246-P02.pdf</li>
+              <li>
+                <a href="https://id.scribd.com/presentation/801571496/Pertemuan-2-Arsitektur-Dan-Organisasi-IoT" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Pertemuan 2 Arsitektur Dan Organisasi IoT | PDF - Scribd
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://onomondo.com/blog/m2m-vs-iot-explained/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  M2M vs. IoT - What's the difference? - Onomondo.com
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://www.particle.io/iot-guides-and-resources/m2m-vs-iot/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  M2M vs. IoT - What's the Difference and Why It Matters | Particle
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://en.iotrouter.com/understanding-the-differences-between-iot-and-m2m-are-they-the-same/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Understanding The Differences Between Iot And M2m, Are They The Same? - IOTROUTER
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://medium.com/@rinu.gour123/iot-and-m2m-what-is-the-difference-5106c79c8513" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  IoT and M2M — What is the difference? | by Rinu Gour - Medium
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://www.telkomsel.com/jelajah/jelajah-lifestyle/internet-of-things-adalah-definisi-unsur-contoh-dan-cara-kerja" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Internet of Things Adalah: Definisi, Unsur, Contoh, dan Cara Kerja | Telkomsel
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://www.kmtech.id/post/4-faktor-yang-mempengaruhi-perkembangan-pasar-iot" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  4 Faktor dan Unsur Pembentuk yang Memengaruhi Perkembangan Pasar IoT - KMTek
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://docif.telkomuniversity.ac.id/apa-itu-iot/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Apa itu Internet of Things? Pengertian, Cara Kerja, dan Contohnya – Telkom University
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://sis.binus.ac.id/2021/05/05/apa-itu-internet-of-things-iot/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Apa itu Internet of Things (IoT)? - School of Information Systems – BINUS UNIVERSITY
+                </a>, diakses April 10, 2026.
+              </li>
+              <li>
+                <a href="https://lmsspada.kemdiktisaintek.go.id/course/view.php?id=3724&section=2" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Topic: Pertemuan 2 : Teknologi Jaringan dalam IoT | Internet of Things | LMS SPADA INDONESIA
+                </a>, diakses April 10, 2026.
+              </li>
+            </ul>
+          </div>
 
           {/* CATATAN UNTUK ARZU: 
               Silakan copy-paste sisa teks dari PDF-mu ke dalam tag <p className="mb-6 leading-relaxed"> </p> 

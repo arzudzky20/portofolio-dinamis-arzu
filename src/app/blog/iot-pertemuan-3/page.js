@@ -1,7 +1,7 @@
 import Navbar from "../../../components/Navbar";
 import Link from "next/link";
 
-export default function IOTPertemuan1() {
+export default function IOTPertemuan3() {
   return (
     <main className="min-h-screen bg-white text-black font-sans antialiased">
       <Navbar />
@@ -26,7 +26,7 @@ export default function IOTPertemuan1() {
             <li><span className="font-medium text-gray-900 inline-block w-20">NIM</span> : 17230190</li>
             <li><span className="font-medium text-gray-900 inline-block w-20">Kelas</span> : 17.6A.01</li>
             <li><span className="font-medium text-gray-900 inline-block w-20">Jurusan</span> : Teknologi Informasi</li>
-            <li><span className="font-medium text-gray-900 inline-block w-20">Fakultas</span> : Teknik Informatika</li>
+            <li><span className="font-medium text-gray-900 inline-block w-20">Fakultas</span> : Teknik dan Informatika</li>
           </ul>
         </div>
 
@@ -139,6 +139,43 @@ export default function IOTPertemuan1() {
           <p className="mb-6 leading-relaxed">Pada waktu ini, ekosistem presisi Internet of Things telah bergerak dari sekadar perbincangan teori di laboratorium kepada asas nyata bagi operasi infrastruktur komersial yang menghubungkan entiti tradisional dengan makhluk maya yang berfungsi secara mandiri dalam dimensi Bila-bila Masa, Di Mana Saja, dan Apa Saja. Dasar untuk pengadaptasian ini berdasarkan pada pemikiran kognitif yang memperkirakan melalui mesin analitik buatan (AI) yang bersatu dengan pemindahan gelombang mikro yang fleksibel.</p>
           <p className="mb-6 leading-relaxed">Yang paling penting, inovasi besar dalam bentuk peralihan struktur dengan memindahkan beban pusat laporan dari server tradisional ke kuasa fungsional di pinggir sistem komputasi (Komputasi Edge/Fog), menunjukkan keberanian teknikal dalam menyelesaikan masalah kesesakan data dan masalah kelewatan yang sering menyerang struktur lama. Pendekatan ini berjaya membuktikan potensi nilai triliunan dolar komersial dengan mengatasi kerugian dalam kelajuan operasi, di mana banyak manfaat di masa depan masih belum diterokai sepenuhnya dan menunggu untuk diproses secara besar-besaran dalam ramalan pergerakan perniagaan dekad yang akan datang.</p>
 
+          {/* BAGIAN DAFTAR PUSTAKA */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold text-black mb-6">IX. Daftar Pustaka</h2>
+            <ul className="list-decimal pl-5 space-y-3 text-gray-600 text-sm leading-relaxed break-words">
+              <li>Slide Materi IoT Pertemuan 3 – Evolusi Paradigma Komunikasi & Dampak Makroekonomi Ekosistem IoT, 0246-P03.pdf</li>
+              <li>
+                <a href="https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=y.2060" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Recommendation ITU-T Y.2060
+                </a>, diakses 10 April 2026.
+              </li>
+              <li>
+                <a href="https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2060-201206-I!!PDF-E&type=items" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  ITU-T Rec. Y.2060 (06/2012) Overview of the Internet of things
+                </a>, diakses 10 April 2026.
+              </li>
+              <li>
+                <a href="https://dig.watch/resource/recommendation-itu-t-y2060-overview-internet-thingS" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Overview of the internet of things (Recommendation no.Y.2060) | Digital Watch Observatory
+                </a>, diakses 10 April 2026.
+              </li>
+              <li>
+                <a href="https://www.researchgate.net/figure/TU-T-IoT-reference-model-The-Application-Layer-is-the-simplest-layer-to-explain-This_fig1_344501334" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  ITU-T IoT reference model The Application Layer is the simplest layer... - ResearchGate
+                </a>, diakses 10 April 2026.
+              </li>
+              <li>
+                <a href="https://store.outrightcrm.com/blog/layers-of-iot-architecture/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  7 Layers Architecture of loT: A Comprehensive Guide - OutRight Store
+                </a>, diakses 10 April 2026.
+              </li>
+              <li>
+                <a href="https://www.itu.int/en/publications/Documents/tsb/2016-InternetOfThings/files/basic-html/page27.html" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Page 27 - Unleashing the potential of the Internet of Things - ITU
+                </a>, diakses 10 April 2026.
+              </li>
+            </ul>
+          </div>
 
           {/* CATATAN UNTUK ARZU: 
               Silakan copy-paste sisa teks dari PDF-mu ke dalam tag <p className="mb-6 leading-relaxed"> </p> 

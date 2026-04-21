@@ -26,7 +26,7 @@ export default function IOTPertemuan1() {
             <li><span className="font-medium text-gray-900 inline-block w-20">NIM</span> : 17230190</li>
             <li><span className="font-medium text-gray-900 inline-block w-20">Kelas</span> : 17.6A.01</li>
             <li><span className="font-medium text-gray-900 inline-block w-20">Jurusan</span> : Teknologi Informasi</li>
-            <li><span className="font-medium text-gray-900 inline-block w-20">Fakultas</span> : Teknik Informatika</li>
+            <li><span className="font-medium text-gray-900 inline-block w-20">Fakultas</span> : Teknik dan Informatika</li>
           </ul>
         </div>
 
@@ -336,6 +336,138 @@ export default function IOTPertemuan1() {
             Eksplorasi ide-ide konsep dari awal pengembangan telemetri yang menggunakan kabel fisik sampai berkembangnya komputasi banyak-ke-banyak secara global mendukung pendapat rasional bahwa IoT bukanlah sesuatu yang muncul tiba-tiba di dunia maya tanpa sebab, melainkan merupakan hasil yang logis dan terencana. IoT tetap kuat berkat dasar perkembangan metode berlapis-lapis dari pengembangan komputasi sebelumnya, sistem instruksi berurutan mesin Point-to-Point, dan warisan teknologi klasik yang ada yang kredibilitasnya tak tergoyahkan melewati berbagai benturan intervensi krisis di bagian inti permesinan rotasi keras instalasi perlindungan nyawa penting bagi umat manusia. Paradigma komunikasi biner M2M mulai berkembang, merambat, dan membentuk infrastruktur jaringan IP cerdas IoT yang ada di mana-mana. Ini memperluas pemahaman manusia dalam mengamati efisiensi interaksi lintas batas benda alam, serta mengolah inteligensi korporat transnasional dengan cara yang tidak pernah terbayangkan sebelumnya di era global yang semakin kompleks.
           </p>
 
+          {/* BAGIAN DAFTAR PUSTAKA */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold text-black mb-6">IX. DAFTAR PUSTAKA</h2>
+            <ul className="list-decimal pl-5 space-y-3 text-gray-600 text-sm leading-relaxed break-words">
+              <li>Slide Materi IoT Pertemuan 1 – Definisi dan Perkembangan IoT, 0246-P01.pdf</li>
+              <li>
+                <a href="https://en.iotrouter.com/understanding-the-differences-between-iot-and-m2m-are-they-the-same/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Understanding The Differences Between Iot And M2m, Are They The Same? - IOTROUTER
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.theknowledgeacademy.com/blog/difference-between-iot-and-m2m/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Understanding the Difference Between IoT and M2M Technologies
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://iotsolutionsworld.com/blog/iot-vs-m2m-how-they-differ-in-connected-world/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  IoT vs M2M: How They Differ in 2025's Connected World
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.symmetryelectronics.com/blog/a-brief-explanation-of-the-differences-between-m2m-and-iot/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  A Brief Explanation of the Differences between M2M and IoT | Symmetry Electronics
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.particle.io/iot-guides-and-resources/m2m-vs-iot/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  M2M vs. IoT - What's the Difference and Why It Matters | Particle
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://onomondo.com/blog/m2m-vs-iot-explained/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  M2M vs. IoT - What's the difference? - Onomondo.com
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://pelion.com/knowledge-base/iot-vs-m2m-key-differences" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  IoT vs. M2M | Key Differences Explained - Pelion
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.acerid.com/berita-bisnis/apa-itu-machine-to-machine-dalam-iot" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Machine to Machine (M2M) dalam IoT, Apa Itu? - Acer Indonesia
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://julac-hkpu.primo.exlibrisgroup.com/discovery/fulldisplay/alma991021926818403411/852JULAC_HKPU:HKPU" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Rethinking the Internet of Things : A Scalable Approach to Connecting Everything
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.zdnet.com/article/francis-dacosta-rethinks-the-internet-of-things/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Francis daCosta rethinks the Internet of Things - ZDNET
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.liputan6.com/tag/m2m" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Berita M2M Hari Ini - Kabar Terbaru Terkini - Liputan6.com
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.secuodsoft.com/blog/iot-app-development/difference-between-iotand-m2m-with-diagram-example.php" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Difference Between IoT and M2M with Diagram, Example in 2026 - Secuodsoft
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://blog.parker.com/us/en/unCategorized/sorting-out-the-difference-between-m2m-and-iot-us.html" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Sorting Out the Difference Between M2M and IoT
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.iotforall.com/m2m-vs-iot-understanding-the-differences" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Understanding the Differences: M2M vs. IoT
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.cavliwireless.com/blog/not-mini/m2m-vs-iot-differences-and-similarities" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  M2M vs IoT: Key Differences & Applications
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://primo.csu.edu.au/discovery/fulldisplay?vid=61CSU_INST%3A61CSU&docid=alma991001594790402357&lang=en&context=SP" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  From Machine-to-Machine to the Internet of Things - Charles Sturt University
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://toc.library.ethz.ch/objects/pdf03/z01_978-0-12-407684-6_01.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  From Machine-to-Machine (PDF)
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://books.google.com.gh/books?id=wtfEAgAAQBAJ" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Internet of Things - Jan Holler, Vlasios Tsiatsis, Catherine Mulligan, Stamatis Karnouskos, Stefan Avesand, David Boyle - Google Books
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://books.google.com/books/about/From_Machine_to_Machine_to_the_Internet.html?id=jzTCNAEACAAJ" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  From Machine-to-Machine to the Internet of Things: Introduction to a New Age of Intelligence
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.researchgate.net/publication/315665046_Rethinking_the_Internet_of_Things_-_A_Scalable_Approach" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  (PDF) Rethinking the Internet of Things - A Scalable Approach .. -ResearchGate
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.goodreads.com/en/book/show/20742503-rethinking-the-internet-of-things" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Rethinking the Internet of Things: A Scalable Approach to Connecting Everything
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://meshdynamics.com/documents/Rethinking-Internet-Of-Things-Book.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Rethinking the Internet of Things - Meshdynamics (PDF)
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://indobot.co.id/tren-iot-awal-tahun-2025-transformasi-besar-di-sektor-teknologi/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Tren IoT Awal Tahun 2025: Transformasi Besar di Sektor Teknologi – Indobot Academy
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.cloudcomputing.id/tren/iot-ai-revolusi-industri-2025" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  IoT & AI: Revolusi Teknologi yang Mengubah Industri 2025 - Cloud Computing Indonesia
+                </a>, diakses April 9, 2026.
+              </li>
+              <li>
+                <a href="https://www.lintasarta.net/blog/solution/peran-penting-internet-of-things-iot-dalam-revolusi-industri-4-0/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 hover:underline transition-colors">
+                  Peran Penting Internet of Things (IoT) Dalam Revolusi Industri 4.0 - Lintasarta
+                </a>, diakses April 9, 2026.
+              </li>
+            </ul>
+          </div>
 
           {/* CATATAN UNTUK ARZU: 
               Silakan copy-paste sisa teks dari PDF-mu ke dalam tag <p className="mb-6 leading-relaxed"> </p> 
