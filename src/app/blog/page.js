@@ -80,7 +80,7 @@ export default function BlogAkademik() {
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  RANGKUMAN MATERI PERTEMUAN 5 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                  RANGKUMAN MATERI PERTEMUAN 5 MATA KULIAH INTERNET OF THINGS : "EKSPLORASI BLOK SEKTOR DAN ARSITEKTUR INTERNET OF THINGS (ETSI, ITU-T, IWF, IETF)"
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Paper rangkuman materi dari pertemuan 5 mata kuliah IoT, beserta sumber referensinya.
@@ -93,7 +93,7 @@ export default function BlogAkademik() {
               <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl transition-all group-hover:border-black group-hover:shadow-md">
                 <div className="text-sm text-gray-500 mb-2">Tugas 2 • Internet of Things</div>
                 <h3 className="text-xl font-bold mb-2 group-hover:underline">
-                  RANGKUMAN MATERI PERTEMUAN 6 MATA KULIAH INTERNET OF THINGS : "Lorem Ipsum..."
+                  RANGKUMAN MATERI PERTEMUAN 6 MATA KULIAH INTERNET OF THINGS : "ARSITEKTUR DAN ENAM MODEL UTAMA INTERNET OF THINGS (IOT) DALAM EKOSISTEM INDUSTRI 4.0"
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Paper rangkuman materi dari pertemuan 6 mata kuliah IoT, beserta sumber referensinya.
